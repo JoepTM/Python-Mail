@@ -4,7 +4,7 @@ With python mail you can send mails with python.
 
 ## Installation
 
-Click [here](https://github.com/JoepTM/Python-Mail/archive/main.zip) download button
+Click [here](https://github.com/JoepTM/Python-Mail/archive/main.zip) to download the script.
 
 ## Usage
 ```bash
