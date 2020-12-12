@@ -12,4 +12,4 @@ py mail.py
 ```
 
 ## Contributing
-If you see any problems with the code please report them [here](https://github.com/JoepTM/Python-Mail/issues).
+If you have any problems with the program please report them [here](https://github.com/JoepTM/Python-Mail/issues).
