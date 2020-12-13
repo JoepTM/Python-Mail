@@ -61,7 +61,7 @@ def main():
                     else:
                         break
                 mailText = '\n'.join(lines)
-                        
+                
                 if len(mailText) == 0:
                     print("You cant leave the message blank.")
                     typeText()
