@@ -1,0 +1,9 @@
+[[red]] /#### /## /####  /######     
+| ##_/| ##|_  ## /##__  ##    
+| ##  | ##  | ##| ##  \ ##  /#######  /#######  /######   /#######
+| ##  | ##  | ##| ######## /##_____/ /##_____/ /##__  ## /##_____/
+| ##  |__/  | ##| ##__  ##| ##      | ##      | ########|  ###### 
+| ##        | ##| ##  | ##| ##      | ##      | ##_____/ \____  ##
+| #### /## /####| ##  | ##|  #######|  #######|  ####### /#######/
+|____/|__/|____/|__/  |__/ \_______/ \_______/ \_______/|_______/   
+[[white]]The acces to your account was denied.\n\n[[magenta]]Possible Solutions:\n[[white]]Type a valid password. \nAllow access to less secure apps on your gmail account. https://www.google.com/settings/security/lesssecureapps
