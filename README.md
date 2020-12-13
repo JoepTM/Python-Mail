@@ -17,4 +17,4 @@ If you have any problems with the program please report them [here](https://gith
 ## Change Logs
 12/12/2020: Uploaded the repository.  
 12/12/2020: Changed the mailing system, you can now type the subject from the mail and what text you want to send.
-12/13/2020: Added the mail_test file. Im currently really busy to make it work, because it doesn't right now.
+12/13/2020: Added the mail_test file and the ascii arts. Im currently really busy to make the mail_test script work, because it doesn't right now.
