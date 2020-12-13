@@ -1,4 +1,4 @@
-import getpass
+import stdiomask
 import sys
 import smtplib, ssl
 from email.mime.text import MIMEText
@@ -37,7 +37,7 @@ print(colorText(ascii))
 
 def main():
         sender_email = input("Type your E-Mail: ")
-        password = getpass.getpass("Type your password and press enter: ")
+        password = stdiomask.getpass("Type your password and press enter: ")
         try:
             context = ssl.create_default_context()
             with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
@@ -85,7 +85,6 @@ def main():
                         except smtplib.SMTPAuthenticationError:
                             ascii = "".join(acces.readlines())
                             print(colorText(ascii))
-                            os.system("pause")
                     else:
                         typeText()
             typeText()
